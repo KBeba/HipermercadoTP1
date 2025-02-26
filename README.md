@@ -3,6 +3,22 @@
 
 ---
 
+## **Introducción**
+
+Este proyecto tiene como objetivo desarrollar un sistema de gestión integral para el hipermercado Cachamay. Nuestro sistema está diseñado para optimizar la administración de empleados, clientes, productos y ventas, facilitando un mejor control de la información y simplificando los procesos internos de organización.
+
+La importancia de este sistema radica en su capacidad para automatizar tareas clave, lo que reduce errores y aumenta la eficiencia operativa. Las principales funcionalidades incluyen:
+
+- **Gestión del personal**: Administración de empleados, roles y permisos.
+- **Control de clientes y stock**: Registro de clientes, gestión de inventario y seguimiento de productos.
+- **Generación de reportes**: Ventas diarias, semanales y mensuales, productos más vendidos y detalles de facturación.
+
+Para la implementación del sistema, hemos utilizado una metodología de programación modular. Esto permite la creación, modificación, eliminación y visualización de datos dentro de cada módulo principal, garantizando que el sistema sea flexible y escalable según las necesidades del hipermercado.
+
+---
+
+---
+
 ## **PASOS PARA CONFIGURAR**
 
 ---
@@ -188,7 +204,6 @@ Si prefieres seguir un tutorial en video, puedes ver este enlace:
 
 ---
 
-¡Y eso es todo! Ahora tienes una tabla bien estructurada y fácil de leer en tu `README.md`. Si necesitas más ayuda, no dudes en preguntar. 😊
 
 
 
