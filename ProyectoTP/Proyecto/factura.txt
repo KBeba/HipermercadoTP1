@@ -1,0 +1,62 @@
+=================== FACTURA ===================
+Hipermercado Cachamay
+Factura No: 1005
+Fecha: 2025-02-24 23:38:11
+Empleado No: 1
+Cliente: asd dsa
+Cedula: 2312
+
+Producto 1:
+  Código: 001-0007-9804
+  Nombre: re
+  Cantidad: 2
+  Precio unitario: 3.00 USD
+  Subtotal: 6.00 USD
+
+Subtotal (USD): 6.00 USD
+Subtotal (Bolívares): 0.00 BS
+Subtotal (Euros): 0.00 EUR
+Subtotal (Pesos Colombianos): 0.00 COP
+
+IVA (16.00%): 0.96 USD
+IVA (16.00%): 0.00 BS
+IVA (16.00%): 0.00 EUR
+IVA (16.00%): 0.00 COP
+
+Total con IVA (USD): 6.96 USD
+Total con IVA (Bolívares): 0.00 BS
+Total con IVA (Euros): 0.00 EUR
+Total con IVA (Pesos Colombianos): 0.00 COP
+===============================================
+
+=================== FACTURA ===================
+Hipermercado Cachamay
+Factura No: 1006
+Fecha: 2025-02-24 23:39:00
+Empleado No: 1
+Cliente: asd dsa
+Cedula: 2312
+
+Producto 1:
+  Código: 002-0004-3917
+  Nombre: coca
+  Cantidad: 2
+  Precio unitario: 25.00 USD
+  Subtotal: 50.00 USD
+
+Subtotal (USD): 50.00 USD
+Subtotal (Bolívares): 0.00 BS
+Subtotal (Euros): 0.00 EUR
+Subtotal (Pesos Colombianos): 0.00 COP
+
+IVA (16.00%): 8.00 USD
+IVA (16.00%): 0.00 BS
+IVA (16.00%): 0.00 EUR
+IVA (16.00%): 0.00 COP
+
+Total con IVA (USD): 58.00 USD
+Total con IVA (Bolívares): 0.00 BS
+Total con IVA (Euros): 0.00 EUR
+Total con IVA (Pesos Colombianos): 0.00 COP
+===============================================
+

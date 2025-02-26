@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="`pkg-config --cflags gtk+-3.0`" />
+			<Add option="-mms-bitfields" />
+			<Add directory="C:/gtk/include" />
+			<Add directory="C:/gtk/include/gtk-3.0" />
+			<Add directory="C:/gtk/include/glib-2.0" />
+			<Add directory="C:/gtk/lib/glib-2.0/include" />
+			<Add directory="C:/gtk/include/pango-1.0" />
+			<Add directory="C:/gtk/include/cairo" />
+			<Add directory="C:/gtk/include/gdk-pixbuf-2.0" />
+			<Add directory="C:/gtk/include/atk-1.0" />
+		</Compiler>
+		<Linker>
+			<Add option="`pkg-config --libs gtk+-3.0`" />
+			<Add library="gtk-3" />
+			<Add library="gdk-3" />
+			<Add library="gdk_pixbuf-2.0" />
+			<Add library="pangocairo-1.0" />
+			<Add library="pango-1.0" />
+			<Add library="atk-1.0" />
+			<Add library="cairo" />
+			<Add library="gobject-2.0" />
+			<Add library="glib-2.0" />
+			<Add library="intl" />
+			<Add directory="C:/gtk/lib" />
+		</Linker>
+		<Unit filename="../project2recaudacion/src/Gestion_de_Procutos_e_inventario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/Gestion_de_Procutos_e_inventario.h" />
+		<Unit filename="../project2recaudacion/src/Gestion_de_ventas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/Gestion_de_ventas.h" />
+		<Unit filename="../project2recaudacion/src/Menus_Principales.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/Menus_principales.h" />
+		<Unit filename="../project2recaudacion/src/codigo.workspace.layout" />
+		<Unit filename="../project2recaudacion/src/gestion_cajas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/gestion_cajas.h" />
+		<Unit filename="../project2recaudacion/src/gestion_de_clientes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/gestion_de_clientes.h" />
+		<Unit filename="../project2recaudacion/src/gestion_de_empleados.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/gestion_de_empleados.h" />
+		<Unit filename="../project2recaudacion/src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/sistema_de_usuarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/sistema_de_usuarios.h" />
+		<Unit filename="../project2recaudacion/src/validaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../project2recaudacion/src/validaciones.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
