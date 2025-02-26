@@ -1,4 +1,4 @@
-# HipermercadoTP1
+# HIPERMERCADO CACHAMAY
 # **Proyecto TP1 Sección 4**
 
 ---
