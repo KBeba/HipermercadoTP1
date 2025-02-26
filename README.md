@@ -17,4 +17,4 @@ Acepta los términos de la licencia.
 Selecciona los componentes que deseas instalar. Asegúrate de que MinGW esté seleccionado (si descargaste la versión con MinGW).
 Elige la ubicación donde deseas instalar Code::Blocks (puedes dejar la predeterminada).
 
-Haz clic en "Instalar" y espera a que se complete la instalación.
+Haz clic en "Instalar" y espera a que se complete la instalación. espero 
