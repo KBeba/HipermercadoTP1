@@ -141,7 +141,7 @@ Ejecuta el siguiente comando en el terminal de MSYS2 para instalar Glade:
 
 ```bash
 pacman -S mingw-w64-x86_64-glade
-
+```
 
 ---
 
