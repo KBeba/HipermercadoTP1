@@ -129,6 +129,20 @@ Este método es un poco más manual y requiere descargar los archivos binarios d
 Si prefieres seguir un tutorial en video, puedes ver este enlace:  
 [Configurar GTK3 en Code::Blocks](https://www.youtube.com/watch?v=VNQUEQnc9m8)
 
+# Instalación de Glade en MSYS2
+
+Sigue los siguientes pasos para instalar **Glade** en tu sistema utilizando **MSYS2**:
+
+## Paso 1: Abre el terminal de MSYS2
+Puedes usar **MSYS2 MinGW 64-bit** o **MSYS2 MinGW 32-bit**, dependiendo de la arquitectura de tu sistema.
+
+## Paso 2: Instalar Glade
+Ejecuta el siguiente comando en el terminal de MSYS2 para instalar Glade:
+
+```bash
+pacman -S mingw-w64-x86_64-glade
+
+
 ---
 
 # **Proyecto TP1 Sección 4**
